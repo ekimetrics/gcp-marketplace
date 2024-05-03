@@ -1,6 +1,3 @@
-# gcp-marketplace
-google marketplace
-
 # Application Deployment Guide on GKE
 
 This guide explains how to deploy your application on Google Kubernetes Engine (GKE) using a web-based deployment form. The form gathers all necessary information to configure and deploy your application successfully.
